@@ -4,7 +4,7 @@ FreeCADwing is a sequence of macros for FreeCAD that allow you to generate a two
 
 First define the wing geometry in file wDat19928.lis (the filename is, of course, arbitrary), it contains the data for both the inner and outer wing section. Line 0, the first line, is no longer used. Outer wing data start in line 8, after the first nRig.
 
-The macros have been tested with the latest FreeCAD version 1.0.0 and it worked without problems, though the run of the mkRibAutoStar9.FCMacro took quite long, some 1 to 2 minutes.
+The macros have been tested with the latest FreeCAD version 1.0.0 and it worked without problems, though running of the mkRibAutoStar9.FCMacro took quite long, some 1 to 2 minutes.
 
 a) To create the wing make a new document, which will by default be designated "Unnamed". Then run the macro mkRibAutoStrt9.FCMacro and proceed by runnig the other macros. 
 
