@@ -30,7 +30,9 @@ Thus the sequence to generate a wing and a drawing is:
   object input file generated in the previous step, then
   set kB to -1 and run prnObj9. This will generate a page
   containing all ribs that had a number assigned to them
-  in the copy of the object file.
+  in the copy of the object file. NOTE: the page will be
+  visible in the item tree. To bring it up select the 
+  line in the tree view and than hit the space key twice.
 
 
 Happy Modeling Everyone!
